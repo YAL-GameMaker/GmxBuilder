@@ -1,0 +1,4 @@
+params-14.hxml
+-cp src
+-main Gmx
+-js gmxBuilder.gmx/extensions/GmxBuilder.extension.gmx._

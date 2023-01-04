@@ -1,0 +1,6 @@
+-dce full
+-lib sfhx
+-lib sfgml
+-D sf-std-package=gmx_std
+-D sf-hint-folds=false
+-debug
